@@ -15,7 +15,7 @@ Please note that this project is incomplete and was never intended for productio
 
 ## Development Experience
 
-Working on this project was a significant learning experience for me. As a young developer, I attempted to create a game engine from scratch, which involved understanding low-level concepts such as graphics rendering, input handling, and event loops. While the project was challenging and ultimately incomplete, it provided valuable insights into software development and game engine architecture.
+Working on this project was a significant learning experience for me. As a young developer, I attempted to create a game engine from scratch, which involved understanding low-level concepts such as graphics rendering, input handling, and event loops. While the project was challenging and ultimately incomplete, it provided valuable insights into software development and game engine architecture. This was one of the biggest learning experiences for me.
 
 ## Future Plans
 
